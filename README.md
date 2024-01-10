@@ -8,7 +8,9 @@
 ### -Agricultural, Mining, Oil & Gas
 ### -Biomedical
 
-## You have reached the github repo for our mainpage. Please visit our site at www.liveoakcontrols.com for more info.
+## You have reached the github repo for our mainpage. 
+## Please visit our site at www.liveoakcontrols.com for more info.
+## Or email us at support@liveoakcontrols.com
 
 #### Attributions:
 #### Logo: Color changed from [Oak Vectors by Vecteezy](https://www.vecteezy.com/free-vector/oak). Thank you to [Doni Kurniawan](https://www.vecteezy.com/members/drrakurniawan22831594)
